@@ -1,0 +1,3 @@
+steps:
+  - uses: browser-actions/setup-firefox@v1
+  - run: firefox --version
